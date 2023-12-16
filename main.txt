@@ -1,1 +1,2 @@
 cout<<"hello github";
+sum(num1,num2);
